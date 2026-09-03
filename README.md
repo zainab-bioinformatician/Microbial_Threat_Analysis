@@ -20,4 +20,14 @@ How much antimicrobial resistance may affect treatment.
 4. Matplotlib creates the radar chart.
 5. The chart is saved as a PNG file.
 
+## 🛠️ Tools
+
+- 🐍 Python
+- 🔢 NumPy
+- 📊 Matplotlib
+  
+ ## 📌 Note
+
+The scores in this version are representative inputs.
+The four factors are the categories, used in this project for "visualization".
 
