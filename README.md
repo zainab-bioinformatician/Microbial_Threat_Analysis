@@ -1,18 +1,18 @@
 * ## 🧬 Microbial Threat Analysis
 * A Python-based visualization project for creating a four-factor profile of a microorganism using user's provided digits
 * ## 🔬 About the Project
-* The purpose behind this project is to practice Python programming,use input, numerical values and biological data visualization.
+* The purpose behind this project is to practice Python programming,user input, numerical values and  data visualization.
 * The program asks for four scores from 0-100. It then uses these scores to create a radar chart.
-* ## The Four Factors are:
-* ### Poison speed
+* ## The Four Factors
+### Poison speed
 How quickly the microorganism may cause harmful  effects.
-*### Hiding Power
+### Hiding Power
 How well the microorganism may avoid or interfere with host defenses.
-*### Soil Survival
+### Soil Survival
 How well the microorganism may survive outside a host, especially in soil.
-*### Medicine Failure
+### Medicine Failure
 How much antimicrobial resistance may affect treatment.
-*## How It Works
+## How It Works
 
 1. Enter a score from 0 to 100 for each factor.
 2. The program stores the values.
